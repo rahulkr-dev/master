@@ -1,0 +1,9 @@
+.product-container {
+  height: 60vh;
+  width: max-content;
+  max-height: 60vh;
+  margin: auto;
+  border-radius: 3px;
+  padding: 1rem;
+  overflow-y: auto;
+}
